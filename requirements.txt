@@ -2,4 +2,3 @@ numpy
 matplotlib
 scipy
 random
-python_version=='3.9'
